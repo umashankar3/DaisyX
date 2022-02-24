@@ -32,7 +32,7 @@
     },
     "MONGO_URI": {
       "description": "Create A Database In Mongodb And Get URL",
-      "value": "",
+      "value": "mongodb+srv://1:1@cluster0.ogfqq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true
       
     },
@@ -77,17 +77,17 @@
     },
     "REDIS_URI": {
       "description": "Get from redislabs.com",
-      "value": "",
+      "value": "redis-10521.c246.us-east-1-4.ec2.cloud.redislabs.com",
       "required": true
     },
     "REDIS_PORT": {
       "description": "Get from redislabs.com",
-      "value": "",
+      "value": "10521",
       "required": true
     },
     "REDIS_PASS": {
       "description": "Get from redislabs.com",
-      "value": "",
+      "value": "JdKd7KiRqNjCI2uheOaquHpLR1YAYu3U",
       "required": true
     },
     "OWNER_ID": {
@@ -112,7 +112,7 @@
     },
     "DATABASE_URL": {
       "description": "get from elephantsql.com",
-      "value": "",
+      "value": "postgres://lrjuzfcy:31Wa45mxTL0Xg-MMd8wFk0qa9o56Y_U4@jelani.db.elephantsql.com/lrjuzfcy",
       "required": true
     },
     "VIRUS_API_KEY": {
@@ -187,7 +187,7 @@
     },
     "STRING_SESSION": {
       "description": "run repl run And get your String Session",
-      "value": "",
+      "value": "1BVtsOH8Bu2mtBQEFhj48qY0759Zm06L0Ev1n9tKf9-ppTRZQDhgUZodMyxYgVOEfhyFbA1jEtyOCrwSwC7UhDC8yGioZZzPS0O_YEqFXKqsUdx8l5oE40HmBmqC1qiRK3PFTS9Bq93UpzV1-iasrGEX_uaNS4bc-Ey73G6thyOEmkRaKwCcWY81Lu5hMHtcgMpp5AdAWa_g_cp75iUjJcWOXM1P40nM3xIfum8HNZXaVTALbEhK2M2IdfMcsj9pGFg9wJskk3YHqDCwvhPTQ6NTPgAE1F9goQWElWCXUs7N4QxOfOGd6l6FoiOgAvPJpuMqo6HQfPuUDQzJueGvtTPbArj9gnIo=",
       "required": true
     }
   }
