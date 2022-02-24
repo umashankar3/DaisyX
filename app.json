@@ -1,5 +1,5 @@
 {
-  "name": "DaisyX",
+  "name": "UMASHANKAR31 bot",
   "description": "?",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/DaisyX",
+  "repository": "https://github.com/umashankar3/DaisyX",
   "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "success_url": "t.me/bot_sport_uy",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
@@ -22,12 +22,12 @@
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "8877020",
       "required": true
     },
     "APP_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "9ddc10dbe4d8a9fb6c94a5ecdc20a0e4",
       "required": true
     },
     "MONGO_URI": {
@@ -38,7 +38,7 @@
     },
     "ARQ_API": {
       "description": "Get this from @ARQRobot",
-      "value": "",
+      "value": "KBZGMA-PSZDOC-YNZKYT-VUOZKZ-ARQ",
       "required": true
       
     },
@@ -64,7 +64,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Only for fork users else don't change",
-      "value": "https://github.com/TeamDaisyX/DaisyX-v2.0",
+      "value": "https://github.com/umashankar3/DaisyX-v2.0",
       "required": false  
     },
     "API_PORT": {
@@ -73,7 +73,7 @@
     },
     "API_PORT": {
       "description": "Your Bot Token Obtained From @BotFather.",
-      "value": ""
+      "value": "5270649669:AAF8keiJQBUtXvkbJQYq-jAzBlZDN6Qbngo"
     },
     "REDIS_URI": {
       "description": "Get from redislabs.com",
@@ -92,7 +92,7 @@
     },
     "OWNER_ID": {
       "description": "Your Id",
-      "value": "",
+      "value": "1788262293",
       "required": true
     },
     "OPERATORS": {
@@ -102,12 +102,12 @@
     },
     "SUPPORT_CHAT": {
       "description": "support chat id",
-      "value": "",
+      "value": "-1001747492350",
       "required": true
     },
     "SUDO_USERS": {
       "description": "For gbans",
-      "value": "",
+      "value": "1788262293",
       "required": true
     },
     "DATABASE_URL": {
@@ -122,17 +122,17 @@
     },
     "TIME_API_KEY": {
       "description": "Time api key (no need)",
-      "value": "",
+      "value": "2VG778ROTV5M",
       "required": false
     },
     "REM_BG_API_KEY": {
       "description": "remove.bg api (no need)",
-      "value": "",
+      "value": "32fimf9xZd6t7EPSKrBcmJXk",
       "required": false
     },
     "SW_API": {
       "description": "Spamwatch api @SpamWatchBot",
-      "value": "",
+      "value": "~vBBUp4rnOAt07wHmeqh88TSM2hosjDMeTNbR0rvSZFwUvng3jMwvmKXAkIO_8by",
       "required": true
     },
     "IBM_WATSON_CRED_URL": {
@@ -172,7 +172,7 @@
     },
     "LOGS_CHANNEL_ID": {
       "description": "Id of your log group/channel",
-      "value": "",
+      "value": "-1001747492350",
       "required": true
     },
     "ALLOW_FORWARDS_COMMANDS": {
@@ -182,7 +182,7 @@
     },
     "TOKEN": {
       "description": "Tg bot token by @BotFarther",
-      "value": "",
+      "value": "5270649669:AAF8keiJQBUtXvkbJQYq-jAzBlZDN6Qbngo",
       "required": true
     },
     "STRING_SESSION": {
